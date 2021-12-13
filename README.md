@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanieleTancini.
-- 👀 I’m interested in statistics.
+
 
 
 <!---
