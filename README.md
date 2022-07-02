@@ -1,5 +1,9 @@
 👋 Hi, I’m @DanieleTancini.
 
+🎓 Master's degree in Statistics.
+
+📌 Bayesian statistics, Latent variable models.
+
 
 
 
