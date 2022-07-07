@@ -2,7 +2,7 @@
 
 🎓 Master's degree in Statistics.
 
-📌 Bayesian statistics, Latent variable models.
+📌 Bayesian statistics, Computational statistics, Latent variable models.
 
 
 
