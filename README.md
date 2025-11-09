@@ -1,8 +1,8 @@
-👋 Hi, I am @DanieleTancini, a Phd student at the University of Perugia.
+👋 Hi! I am @DanieleTancini and I am a Phd student at the University of Perugia.
 
-🎓 Master's degree in Statistics for Finance and Economics.
+🎓 Master's degree in Statistics and Actuarial Sciences.
 
-📌 Bayesian statistics, Computational statistics, Latent variable models.
+📌 Bayesian statistics and Computational statistics.
 
 
 
